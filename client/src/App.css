@@ -1,0 +1,10 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.container-fluid {
+  max-width: "100%";
+}
+#top {
+  width: 100%;
+}

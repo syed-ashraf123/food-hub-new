@@ -1,0 +1,10 @@
+.size {
+  width: 80%;
+  height: 90%;
+}
+.input {
+  border: 0.5px solid black;
+  width: 700px;
+  border-radius: 5px;
+  height: 50px;
+}
